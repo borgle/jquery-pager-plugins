@@ -54,7 +54,7 @@
 			if (totalPage < 2 ) return ;
 			if (curPage>totalPage){curPage=totalPage;}
 			if (curPage<1){curPage=1;}
-			if(totalPage>curPage + parseInt(n/2)){
+			if(totalPage>curPage + parseInt(n/2) && totalPage>n){
 				if(curPage - parseInt(n/2)>=1) PageEndNum = curPage + parseInt(n/2);
 				else PageEndNum = n;
 			}else{
