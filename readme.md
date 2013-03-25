@@ -61,5 +61,5 @@ $(function(){
 [1]: https://github.com/yoker/jquery-pager-plugins "jquery-pager-plugins"
 [2]: https://github.com/ "github official site"
 [3]: http://jquery.com/
-[4]: http://yoker.github.com/jquery-pager-plugins
+[4]: http://gkeeps.com/jquery-pager-plugins
 [5]: http://closure-compiler.appspot.com/home
